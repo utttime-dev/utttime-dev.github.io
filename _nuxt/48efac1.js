@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{393:function(e){e.exports=JSON.parse('{"DESCRIPTION_INLINE":"Student-edited U-Tokyo Faculty of Engineering PR Brochure","DESCRIPTION_MULTILINE":["Student-edited U-Tokyo","Faculty of Engineering","PR Brochure"],"MENU_LIST":["Web Posts","Back Numbers","About Us","News","Links","Contact"]}')}}]);
