@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ja/web-posts", {data:[{}],fetch:{},mutations:void 0});
