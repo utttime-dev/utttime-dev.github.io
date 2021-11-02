@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ja/back-numbers", {data:[{}],fetch:{},mutations:void 0});
