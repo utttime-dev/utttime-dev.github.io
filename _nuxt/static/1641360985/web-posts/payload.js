@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/web-posts", (function(a,b,c){return {data:[{posts:[{slug:"sample-04",title:b,date:a,img:a,tags:[c]},{slug:"sample-03",title:b,date:a,img:a,tags:[c]},{slug:"sample-02",title:b,date:a,img:a,tags:[c]},{slug:"sample-01",title:b,date:a,img:a,tags:[c]}]}],fetch:{},mutations:void 0}}(null,"タイトル","back-number")));
