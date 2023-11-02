@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-JP"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="ja-JP" /><updated>2023-10-27T09:49:44+09:00</updated><id>/feed.xml</id><title type="html">Ttime! Web</title><subtitle>東大工学部のイマを伝えるホームページ</subtitle><entry><title type="html">物理工学の魅力って…？</title><link href="/2023/07/04/butsu" rel="alternate" type="text/html" title="物理工学の魅力って…？" /><published>2023-07-04T09:55:56+09:00</published><updated>2023-07-04T09:55:56+09:00</updated><id>/2023/07/04/butsu</id><content type="html" xml:base="/2023/07/04/butsu"><![CDATA[<p>物理工学科3年の羅偲予です。そろそろ進学選択も近いので2年生への学科宣伝も兼ねて、物理工学科についてお伝えしようと思います！</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-JP"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="ja-JP" /><updated>2023-11-02T13:04:37+09:00</updated><id>/feed.xml</id><title type="html">Ttime! Web</title><subtitle>東大工学部のイマを伝えるホームページ</subtitle><entry><title type="html">物理工学の魅力って…？</title><link href="/2023/07/04/butsu" rel="alternate" type="text/html" title="物理工学の魅力って…？" /><published>2023-07-04T09:55:56+09:00</published><updated>2023-07-04T09:55:56+09:00</updated><id>/2023/07/04/butsu</id><content type="html" xml:base="/2023/07/04/butsu"><![CDATA[<p>物理工学科3年の羅偲予です。そろそろ進学選択も近いので2年生への学科宣伝も兼ねて、物理工学科についてお伝えしようと思います！</p>
 
 <h1 id="物理工学の魅力って">物理工学の魅力って…?</h1>
 <p>僕はもともと理数系が苦手だったのですが、ある予備校教師の「数式は言葉です。計算ではない」という言葉をきっかけに魅力がだんだんとわかるようになりました。
@@ -99,7 +99,7 @@ Arduino、Unity、VR（研究室からの借り物）、その他自らで買っ
 <p>電子情報工学科は電気電子工学科と合同の授業が多く、この2学科を合わせてEEIC、電気系学科と呼ばれることがあります。両学科が一緒に授業を受ける理由については、学科ホームページによると以下の記載があります。「『情報』を操るには『物理』が必要であり、『物理』に向き合えば『情報』の新しい使い方が見えてきます。つまり、「情報」（ソフト）を学ぶだけでなく、「物理」（ハード）も学ぶことができるのが電子情報工学科ということです。情報だけを学ぶのではなく、ソフトとハードの二刀流をしたい人にはおすすめの学科です。実際に、電気系学科が開講する授業には統計的機械学習やアルゴリズムといったソフトから、コンピュータアーキテクチャや半導体デバイス工学といったハードまで広い分野があり、ソフト、ハードの二刀流を目指すには持ってこいです！</p>
 
 <h1 id="具体的にはどのようなことを学ぶの">具体的にはどのようなことを学ぶの？</h1>
-<p>もう少し解像度を上げて電子情報工学科について紹介したいと思います。学科の特性を一番反映しているのが実験！ということで実験について紹介します。電子情報工学科では3S・3Aセメスターそれぞれの月、火、木の3、4限で前期実験、後期実験と呼ばれるものが存在します。実験は1人でやるものではなく、コンタクトグループといって電気電子工学科、電子情報工学科から2、3人ずつ選ばれて共同で行います。そのため、1人ではわからなくても協力して実験をすることで理解を深めることができます。前期実験でこれまでに扱ったテーマから、電気電子寄りの内容と電子情報よりの内容を1つずつ紹介します。</p>
+<p>もう少し解像度を上げて電子情報工学科について紹介したいと思います。学科の特性を一番反映しているのが実験！ということで実験について紹介します。電子情報工学科では3S・3Aセメスターそれぞれの月、火、木の3、4限で前期実験、後期実験と呼ばれるものが存在します。実験は1人でやるものではなく、コンタクトグループといって電気電子工学科、電子情報工学科から2、3人ずつ選ばれて共同で行います。そのため、1人ではわからなくても協力して実験をすることで理解を深めることができます。前期実験でこれまでに扱ったテーマから、電気電子寄りの内容と電子情報寄りの内容を1つずつ紹介します。</p>
 
 <h3 id="1-気体エレクトロニクス">1. 気体エレクトロニクス</h3>
 
