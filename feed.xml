@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-JP"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="ja-JP" /><updated>2023-11-07T11:11:17+09:00</updated><id>/feed.xml</id><title type="html">Ttime! Web</title><subtitle>東大工学部のイマを伝えるホームページ</subtitle><entry><title type="html">物理工学の魅力って…？</title><link href="/2023/07/04/butsu" rel="alternate" type="text/html" title="物理工学の魅力って…？" /><published>2023-07-04T09:55:56+09:00</published><updated>2023-07-04T09:55:56+09:00</updated><id>/2023/07/04/butsu</id><content type="html" xml:base="/2023/07/04/butsu"><![CDATA[<p>物理工学科3年の羅偲予です。そろそろ進学選択も近いので2年生への学科宣伝も兼ねて、物理工学科についてお伝えしようと思います！</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-JP"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="ja-JP" /><updated>2023-11-07T11:13:39+09:00</updated><id>/feed.xml</id><title type="html">Ttime! Web</title><subtitle>東大工学部のイマを伝えるホームページ</subtitle><entry><title type="html">物理工学の魅力って…？</title><link href="/2023/07/04/butsu" rel="alternate" type="text/html" title="物理工学の魅力って…？" /><published>2023-07-04T09:55:56+09:00</published><updated>2023-07-04T09:55:56+09:00</updated><id>/2023/07/04/butsu</id><content type="html" xml:base="/2023/07/04/butsu"><![CDATA[<p>物理工学科3年の羅偲予です。そろそろ進学選択も近いので2年生への学科宣伝も兼ねて、物理工学科についてお伝えしようと思います！</p>
 
 <h1 id="物理工学の魅力って">物理工学の魅力って…?</h1>
 <p>僕はもともと理数系が苦手だったのですが、ある予備校教師の「数式は言葉です。計算ではない」という言葉をきっかけに魅力がだんだんとわかるようになりました。
@@ -112,11 +112,11 @@ Arduino、Unity、VR（研究室からの借り物）、その他自らで買っ
 <h3 id="2-情報">2. 情報</h3>
 
 <p>この実験は合計12日間にも及び、インターネット電話や電話会議システムを作ることを目標にします。
-電話というと難しく聞こえますが、音を録音する・再生する・ 音データをネットワークで転送するというこの3つの内容を実装する実験です。これまでの授業で扱った、信号処理やC言語のプログラミングなどの自分の知識をフル活用して挑みます。</p>
+電話というと難しく聞こえますが、音を録音する・再生する・ 音データをネットワークで転送するというこの3つの内容を実装する実験です。これまでの授業で扱った、信号処理やC言語のプログラミングなどの自分の知識をフル活用して挑みます。
+この実験は自分もまだ途中の段階なので詳しくはかけませんが、周波数を変化させて、ドレミファソラシドの音が目標通り出ただけでも嬉しいものです。
+実験以外にも電子情報工学科には様々な面白い授業があるので、興味を持ってくれたら嬉しいです！</p>
 
-<p>この実験は自分もまだ途中の段階なので詳しくはかけませんが、周波数を変化させて、ドレミファソラシドの音が目標通り出ただけでも嬉しいものです。</p>
-
-<p>実験以外にも電子情報工学科には様々な面白い授業があるので、興味を持ってくれたら嬉しいです！</p>]]></content><author><name></name></author><category term="dept-intro" /><summary type="html"><![CDATA[こんにちは。電子情報工学科3年の武田です。 学科配属から、まだ1年未満の学科初心者ですが、実際に授業を受けてわかった電子情報工学科の魅力について紹介します！！！ 進学選択の参考になれば嬉しいです！]]></summary></entry><entry><title type="html">電気電子工学科に行ってみて</title><link href="/2023/03/01/eeic" rel="alternate" type="text/html" title="電気電子工学科に行ってみて" /><published>2023-03-01T09:55:56+09:00</published><updated>2023-03-01T09:55:56+09:00</updated><id>/2023/03/01/eeic</id><content type="html" xml:base="/2023/03/01/eeic"><![CDATA[<p>2年生の豊島です。
+<p><img src="/assets/images/2023/03/グループワークの様子.JPG" alt="グループワークの様子" /></p>]]></content><author><name></name></author><category term="dept-intro" /><summary type="html"><![CDATA[こんにちは。電子情報工学科3年の武田です。 学科配属から、まだ1年未満の学科初心者ですが、実際に授業を受けてわかった電子情報工学科の魅力について紹介します！！！ 進学選択の参考になれば嬉しいです！]]></summary></entry><entry><title type="html">電気電子工学科に行ってみて</title><link href="/2023/03/01/eeic" rel="alternate" type="text/html" title="電気電子工学科に行ってみて" /><published>2023-03-01T09:55:56+09:00</published><updated>2023-03-01T09:55:56+09:00</updated><id>/2023/03/01/eeic</id><content type="html" xml:base="/2023/03/01/eeic"><![CDATA[<p>2年生の豊島です。
 2022年の夏に電気電子工学科（電電）に内定して専門科目が始まり、あっという間に期末試験の時期になってしまいました。
 今回は、「電気電子工学科に行ってみて」ということで、学科の雰囲気や魅力をお伝えします。</p>
 
